@@ -1,8 +1,8 @@
 
 public class Credentials {
-	public static final String username="8469212091";
-	public static final String password="08moth42";
-	public static final String way2_username="8469212091";
-	public static final String way2_password="8051";
+	public static final String username="one160by2 username";
+	public static final String password="your password";
+	public static final String way2_username="your user";
+	public static final String way2_password="your pwd";
 
 }
