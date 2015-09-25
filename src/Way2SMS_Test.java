@@ -69,7 +69,7 @@ public class Way2SMS_Test {
 			driver.switchTo().frame(
 					driver.findElementByXPath("//*[@id='frame']"));
 			//create any where whom you want to send the messages
-			String numbers[] = { "8469212091", "9426576315" };// /{"8866685998","9998004440"};
+			String numbers[] = { "9998004440", "9426576315" };// /{"8866685998","9998004440"};
 			//Generate random numbers 
 			Random rn = new Random();
 			for (int i = 0; i < numbers.length; i++) {
@@ -110,20 +110,7 @@ public class Way2SMS_Test {
 				Thread.sleep(3000);
 			}
 
-			/*
-			 * String tk
-			 * =driver.findElement(By.id("Token")).getAttribute("value");
-			 * System.out.println(tk);
-			 */
-
-			/*
-			 * WebElement mo=(new WebDriverWait(driver,
-			 * 15)).until(ExpectedConditions
-			 * .elementToBeClickable(By.cssSelector("#mobile")));
-			 * System.out.println("after 15 secs"); boolean
-			 * dis=mo.isDisplayed(); System.out.println(dis);
-			 */
-
+			driver.close();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

@@ -48,7 +48,15 @@ public class One60by2 {
 			//click on login button
 			driver.findElementByXPath("//*[@id='loginform']/div/section/div/div[1]/div[3]/div[3]/button").click();
 			System.out.println("logged in");
-			String number[]={"8469212091","9426576315"};
+			WebElement wb5=driver.findElement(By.xpath("/html/body/div[1]/section/div[1]/div[1]/div[4]/input"));
+			if(wb5.isDisplayed()){
+				System.out.println("Skip is displayed");
+				driver.findElementByXPath("/html/body/div[1]/section/div[1]/div[1]/div[4]/button[2]").click();
+				System.out.println("Skip button clicked");
+			}
+			Thread.sleep(3000);
+			System.out.println("After 3 secs waiting");
+			String number[]={"9426576315","8469212091"};
 			
 			//generate the random numbers
 			Random rn=new Random();
@@ -67,7 +75,8 @@ public class One60by2 {
 			for(int i=0; i<number.length; i++) //Loop through the number of elements
 			{
 				
-			//Explicitly wait for the given seconds till expected conditions met 
+			//Explicitly wait for the given seconds till expected conditions met
+				Thread.sleep(2000);
 			(new WebDriverWait(driver, 3)).until(ExpectedConditions.elementToBeClickable(By.xpath("/html/body/form/div/div[3]/div[1]/div[1]/div[1]/p[2]/input")));
 			//Write the first element of array numbers
 			driver.findElementByXPath("/html/body/form/div/div[3]/div[1]/div[1]/div[1]/p[2]/input").sendKeys(number[i]);
@@ -100,17 +109,19 @@ public class One60by2 {
 			String text=driver.findElementByXPath("/html/body/form/div/div[3]/div[2]/div/div[2]/div[2]/div[1]/ul/li["+num+"]/a").getText();
 			
 			Thread.sleep(2000);
-			System.out.println("After 2 secs send button clicked");
+			//System.out.println("After 2 secs send button clicked");
 			//Click on send button 
 			driver.findElementByXPath("/html/body/form/div/div[3]/div[1]/input[1]").click();
 			System.out.println("Message sent to"+number[i]+" \n");
 			System.out.println(text+"\n==========");
+			
 			Thread.sleep(4000);
 			System.out.println("After 4 secs ");
 			//Switch to the default iframe as new element is not in selected frame
 			driver.switchTo().defaultContent();
 			//Click on sendSMS from menubar
 			driver.findElementByXPath("/html/body/div[4]/nav/ul/li[2]/ul/li[1]/a").click();
+			
 			Thread.sleep(2000);
 			System.out.println("After 2 secs ");
 			//Switch iframe as we have to repeat the operation till the for loop gets completed
@@ -118,6 +129,7 @@ public class One60by2 {
 			
 			}
 			System.out.println("\n=====\n Sent to all numbers");
+			driver.close();
 		}catch(Exception e){
 			
 		}
