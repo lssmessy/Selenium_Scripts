@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<foodoptions>
+<options id="options" title="options">
+<fields>
+<field id="1" title="Protein"/>
+<field id="2" title="Fruit"/>
+<field id="3" title="Vegetables"/>
+<field id="4" title="Greens"/>
+<field id="5" title="Herbs"/>
+<field id="6" title="Seasonings and Oil"/>
+</fields>
+</options>
+<Protein id="Protein" title="Protein">
+<fields>
+<field id="1" title="Eggs"/>
+<field id="2" title="Meat"/>
+<field id="3" title="Seafood"/>
+<field id="4" title="Beans"/>
+</fields>
+</Protein>
+<EggsB id="EggsB" title="EggsB">
+<fields>
+<field id="1" title="EGGS (Large) - 1 Whole + 2 Whites"/>
+</fields>
+</EggsB>
+<EggsL id="EggsL" title="EggsL">
+<fields>
+<field id="1" title="EGGS (Large) - 2 Whole"/>
+</fields>
+</EggsL>
+<EggsD id="EggsD" title="EggsD">...</EggsD>
+<MeatB id="MeatB" title="MeatB">...</MeatB>
+<MeatL id="MeatL" title="MeatL">...</MeatL>
+<MeatD id="MeatD" title="MeatD">...</MeatD>
+<SeafoodB id="SeafoodB" title="SeafoodB">...</SeafoodB>
+<SeafoodL id="SeafoodL" title="SeafoodL">...</SeafoodL>
+<SeafoodD id="SeafoodD" title="SeafoodD">...</SeafoodD>
+<BeansB id="BeansB" title="BeansB">...</BeansB>
+<BeansL id="BeansL" title="BeansL">...</BeansL>
+<BeansD id="BeansD" title="BeansD">...</BeansD>
+<FruitB id="FruitB" title="FruitB">...</FruitB>
+<FruitL id="FruitL" title="FruitL">...</FruitL>
+<FruitD id="FruitD" title="FruitD">...</FruitD>
+<VegetablesB id="VegetablesB" title="VegetablesB">...</VegetablesB>
+<VegetablesL id="VegetablesL" title="VegetablesL">...</VegetablesL>
+<VegetablesD id="VegetablesD" title="VegetablesD">...</VegetablesD>
+<GreensB id="GreensB" title="GreensB">...</GreensB>
+<GreensL id="GreensL" title="GreensL">...</GreensL>
+<GreensD id="GreensD" title="GreensD">...</GreensD>
+<Snacks id="Snacks" title="Snacks">...</Snacks>
+<Nuts id="Nuts" title="Nuts">...</Nuts>
+<Avocado id="Avocado" title="Avocado">...</Avocado>
+<Olives id="Olives" title="Olives">...</Olives>
+<Herbs id="Herbs" title="Herbs">...</Herbs>
+<DryB id="DryB" title="DryB">...</DryB>
+<DryL id="DryL" title="DryL">...</DryL>
+<DryD id="DryD" title="DryD">...</DryD>
+<FreshB id="FreshB" title="FreshB">...</FreshB>
+<FreshL id="FreshL" title="FreshL">...</FreshL>
+<FreshD id="FreshD" title="FreshD">...</FreshD>
+<SeasoningsB id="SeasoningsB" title="SeasoningsB">...</SeasoningsB>
+<SeasoningsL id="SeasoningsL" title="SeasoningsL">...</SeasoningsL>
+<SeasoningsD id="SeasoningsD" title="SeasoningsD">...</SeasoningsD>
+</foodoptions>

@@ -1,0 +1,1100 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+    <!-- meat allow breakfast arrays -->
+	<foods>
+	<string-array name="Meat_breakfast_array">
+	<item>EGGS (Large) - 1 Whole + 2 Whites</item>
+	<item>EGGS (Large) - 2 Whole</item>
+	<item>EGGS (Large)- 2 Whole</item>
+        <item>Chicken (White Meat) - 3 oz allowed</item>
+        <item>Kidney - 3 oz allowed</item>
+        <item>Tripe - 3 oz allowed</item>
+        <item>Turkey (White Meat) - 3 oz allowed</item>
+        <item>Game (Lean) - 3 oz allowed</item>
+        <item>Antelope - 3 oz allowed</item>
+        <item>Beefalo - 3 oz allowed</item>
+        <item>Beaver - 3 oz allowed</item>
+        <item>Bison/Buffalo - 3 oz allowed</item>
+        <item>Boar - 3 oz allowed</item>
+        <item>Caribou - 3 oz allowed</item>
+        <item>Deer - 3 oz allowed</item>
+        <item>Elk - 3 oz allowed</item>
+        <item>Emu - 3 oz allowed</item>
+        <item>Frog Legs - 3 oz allowed</item>
+        <item>Horse - 3 oz allowed</item>
+        <item>Kangaroo - 3 oz allowed</item>
+        <item>Moose - 3 oz allowed</item>
+        <item>Muskrat - 3 oz allowed</item>
+        <item>Ostrich - 3 oz allowed</item>
+        <item>Rabbit - 3 oz allowed</item>
+        <item>Squirrel - 3 oz allowed</item>
+        <item>Liver - 3 oz allowed</item>
+        <item>Chicken (Dark Meat) - 2.65 oz allowed</item>
+        <item>Duck - 2.65 oz allowed</item>
+        <item>Beef &#60; 5% Fat - 2.65 oz allowed</item>
+        <item>Bottom round roast - 2.65 oz allowed</item>
+        <item>Eye of round roast - 2.65 oz allowed</item>
+        <item>Mock tender steak - 2.65 oz allowed</item>
+        <item>Top round steak - 2.65 oz allowed</item>
+        <item>Top sirloin steak - 2.65 oz allowed</item>
+        <item>Ground Beef Extra Lean 5% - 2.65 oz allowed</item>
+        <item>Tongue (Veal Only) - 2.65 oz allowed</item>
+        <item>Turkey (Dark Meat) - 2.65 oz allowed</item>
+        <item>Beef &#60; 10% Fat - 2.1 oz allowed</item>
+        <item>Arm pot roast - 2.1 oz allowed</item>
+        <item>Chuck shoulder roast - 2.1 oz allowed</item>
+        <item>Shoulder steak - 2.1 oz allowed</item>
+        <item>Strip steak - 2.1 oz allowed</item>
+        <item>Tenderloin steak (filet mignon) - 2.1 oz allowed</item>
+        <item>Ground Beef Lean 10% - 2.1 oz allowed</item>
+        <item>Goose - 2.1 oz allowed</item>
+        <item>Lamp (except ground) - 2.1 oz allowed</item>
+        <item>Pork (except ground) - 2.1 oz allowed</item>
+        <item>Game (Fatty) - 2.1 oz allowed</item>
+        <item>Bear - 2.1 oz allowed</item>
+        <item>Opossum - 2.1 oz allowed</item>
+        <item>Raccoon - 2.1 oz allowed</item>
+    </string-array>
+
+    <!--
+     <string name="Meat_not_allow_breakfast_array">
+     <item>Cured or Smoked Meat-0 - Not Allow</item>
+        <item>Bacon-0 - Not Allow</item>
+        <item>Ham-0 - Not Allow</item>
+        <item>Cold Cuts/Sliced Meats (Any)-0 - Not Allow</item>
+        <item>Sausage-0 - Not Allow</item>
+        <item>Beef Sausage-0 - Not Allow</item>
+        <item>Pork Sausage-0 - Not Allow</item>
+        <item>Blood Sausage-0 - Not Allow</item>
+        <item>Pate-0 - Not Allow</item>
+        <item>Spam-0 - Not Allow</item>
+        <item>Foie Gras-0 - Not Allow </item>
+        <item>Lamb (ground)-0 - Not Allow </item>
+        <item>Pork (ground)-0 - Not Allow </item>
+        <item>Tongue-0 - Not Allow </item>
+        <item>Beef Tongue-0 - Not Allow</item>
+        <item>Lamb Tongue-0 - Not Allow</item>
+        <item>Pork Tongue-0 - Not Allow</item>
+    
+        </string>
+    -->
+
+
+    <!-- meat lunch arrays -->
+    <string-array name="Meat_lunch_array">
+        <item>Chicken (White Meat) - 4.05 oz allowed</item>
+        <item>Kidney - 4.05 oz allowed</item>
+        <item>Tripe - 4.05 oz allowed</item>
+        <item>Turkey (White Meat) - 4.05 oz allowed</item>
+        <item>Game (Lean) - 4.05 oz allowed</item>
+        <item>Antelope - 4.05 oz allowed</item>
+        <item>Beefalo - 4.05 oz allowed</item>
+        <item>Beaver - 4.05 oz allowed</item>
+        <item>Bison/Buffalo - 4.05 oz allowed</item>
+        <item>Boar - 4.05 oz allowed</item>
+        <item>Caribou - 4.05 oz allowed</item>
+        <item>Deer - 4.05 oz allowed</item>
+        <item>Elk - 4.05 oz allowed</item>
+        <item>Emu - 4.05 oz allowed</item>
+        <item>Frog Legs - 4.05 oz allowed</item>
+        <item>Horse - 4.05 oz allowed</item>
+        <item>Kangaroo - 4.05 oz allowed</item>
+        <item>Moose - 4.05 oz allowed</item>
+        <item>Muskrat - 4.05 oz allowed</item>
+        <item>Ostrich - 4.05 oz allowed</item>
+        <item>Rabbit - 4.05 oz allowed</item>
+        <item>Squirrel - 4.05 oz allowed</item>
+        <item>Liver - 4.05 oz allowed</item>
+        <item>Chicken (Dark Meat) - 3.35 oz allowed</item>
+        <item>Duck - 3.35 oz allowed</item>
+        <item>Beef &#60; 5% Fat- 3.35 oz allowed</item>
+        <item>Bottom round roast - 3.35 oz allowed</item>
+        <item>Eye of round roast - 3.35 oz allowed</item>
+        <item>Mock tender steak - 3.35 oz allowed</item>
+        <item>Top round steak - 3.35 oz allowed</item>
+        <item>Top sirloin steak - 3.35 oz allowed</item>
+        <item>Ground Beef Extra Lean 5% - 3.35 oz allowed</item>
+        <item>Tongue (Veal Only) - 3.35 oz allowed</item>
+        <item>Turkey (Dark Meat) - 3.35 oz allowed</item>
+        <item>Beef &#60; Fat - 2.65 oz allowed</item>
+        <item>Arm pot roast - 2.65 oz allowed</item>
+        <item>Chuck shoulder roast - 2.65 oz allowed</item>
+        <item>Shoulder steak - 2.65 oz allowed</item>
+        <item>Strip steak - 2.65 oz allowed</item>
+        <item>Tenderloin steak (filet mignon) - 2.65 oz allowed</item>
+        <item>Ground Beef Lean 10% - 2.65 oz allowed</item>
+        <item>Goose - 2.65 oz allowed</item>
+        <item>Lamp (except ground) - 2.65 oz allowed</item>
+        <item>Pork (except ground) - 2.65 oz allowed</item>
+        <item>Game (Fatty) - 2.65 oz allowed</item>
+        <item>Bear - 2.65 oz allowed</item>
+        <item>Opossum - 2.65 oz allowed</item>
+        <item>Raccoon - 2.65 oz allowed</item>
+    </string-array>
+
+    <!--
+     <string name="Meat_not_allow_breakfast_array">
+     <item>Cured or Smoked Meat-0 - Not Allow</item>
+        <item>Bacon-0 - Not Allow</item>
+        <item>Ham-0 - Not Allow</item>
+        <item>Cold Cuts/Sliced Meats (Any)-0 - Not Allow</item>
+        <item>Sausage-0 - Not Allow</item>
+        <item>Beef Sausage-0 - Not Allow</item>
+        <item>Pork Sausage-0 - Not Allow</item>
+        <item>Blood Sausage-0 - Not Allow</item>
+        <item>Pate-0 - Not Allow</item>
+        <item>Spam-0 - Not Allow</item>
+        <item>Foie Gras-0 - Not Allow </item>
+        <item>Lamb (ground)-0 - Not Allow </item>
+        <item>Pork (ground)-0 - Not Allow </item>
+        <item>Tongue-0 - Not Allow </item>
+        <item>Beef Tongue-0 - Not Allow</item>
+        <item>Lamb Tongue-0 - Not Allow</item>
+        <item>Pork Tongue-0 - Not Allow</item>
+    
+        </string>
+    -->
+
+
+    <!-- meat dinner arrays -->
+
+    <string-array name="Meat_dinner_array">
+        <item>Chicken (White Meat) - 4.05 oz allowed</item>
+        <item>Kidney - 4.05 oz allowed</item>
+        <item>Tripe - 4.05 oz allowed</item>
+        <item>Turkey (White Meat) - 4.05 oz allowed</item>
+        <item>Game (Lean) - 4.05 oz allowed</item>
+        <item>Antelope - 4.05 oz allowed</item>
+        <item>Beefalo - 4.05 oz allowed</item>
+        <item>Beaver - 4.05 oz allowed</item>
+        <item>Bison/Buffalo - 4.05 oz allowed</item>
+        <item>Boar - 4.05 oz allowed</item>
+        <item>Caribou - 4.05 oz allowed</item>
+        <item>Deer - 4.05 oz allowed</item>
+        <item>Elk - 4.05 oz allowed</item>
+        <item>Emu - 4.05 oz allowed</item>
+        <item>Frog Legs - 4.05 oz allowed</item>
+        <item>Horse - 4.05 oz allowed</item>
+        <item>Kangaroo - 4.05 oz allowed</item>
+        <item>Moose - 4.05 oz allowed</item>
+        <item>Muskrat - 4.05 oz allowed</item>
+        <item>Ostrich - 4.05 oz allowed</item>
+        <item>Rabbit - 4.05 oz allowed</item>
+        <item>Squirrel - 4.05 oz allowed</item>
+        <item>Liver - 4.05 oz allowed</item>
+        <item>Chicken (Dark Meat) - 3.35 oz allowed</item>
+        <item>Duck - 3.35 oz allowed</item>
+        <item>Beef &#60; 5% Fat- 3.35 oz allowed</item>
+        <item>Bottom round roast - 3.35 oz allowed</item>
+        <item>Eye of round roast - 3.35 oz allowed</item>
+        <item>Mock tender steak - 3.35 oz allowed</item>
+        <item>Top round steak - 3.35 oz allowed</item>
+        <item>Top sirloin steak - 3.35  oz allowed</item>
+        <item>Ground Beef Extra Lean 5% - 3.35 oz allowed</item>
+        <item>Tongue (Veal Only) - 3.35 oz allowed</item>
+        <item>Turkey (Dark Meat) - 3.35 oz allowed</item>
+        <item>Beef &#60; 10% Fat - 2.65 oz allowed</item>
+        <item>Arm pot roast - 2.65 oz allowed</item>
+        <item>Chuck shoulder roast - 2.65 oz allowed</item>
+        <item>Shoulder steak - 2.65 oz allowed</item>
+        <item>Strip steak - 2.65 oz allowed</item>
+        <item>Tenderloin steak (filet mignon) - 2.65 oz allowed</item>
+        <item>Ground Beef Lean 10% - 2.65 oz allowed</item>
+        <item>Goose - 2.65 oz allowed</item>
+        <item>Lamp (except ground) - 2.65 oz allowed</item>
+        <item>Pork (except ground) - 2.65 oz allowed</item>
+        <item>Game (Fatty) - 2.65 oz allowed</item>
+        <item>Bear - 2.65 oz allowed</item>
+        <item>Opossum - 2.65 oz allowed</item>
+        <item>Raccoon - 2.65 oz allowed</item>
+    </string-array>
+
+    <!--
+     <string name="Meat_not_allow_breakfast_array">
+     <item>Cured or Smoked Meat-0 - Not Allow</item>
+        <item>Bacon-0 - Not Allow</item>
+        <item>Ham-0 - Not Allow</item>
+        <item>Cold Cuts/Sliced Meats (Any)-0 - Not Allow</item>
+        <item>Sausage-0 - Not Allow</item>
+        <item>Beef Sausage-0 - Not Allow</item>
+        <item>Pork Sausage-0 - Not Allow</item>
+        <item>Blood Sausage-0 - Not Allow</item>
+        <item>Pate-0 - Not Allow</item>
+        <item>Spam-0 - Not Allow</item>
+        <item>Foie Gras-0 - Not Allow </item>
+        <item>Lamb (ground)-0 - Not Allow </item>
+        <item>Pork (ground)-0 - Not Allow </item>
+        <item>Tongue-0 - Not Allow </item>
+        <item>Beef Tongue-0 - Not Allow</item>
+        <item>Lamb Tongue-0 - Not Allow</item>
+        <item>Pork Tongue-0 - Not Allow</item>
+    
+        </string>
+    -->
+
+
+    <!-- seafood breakfast  arrays -->
+
+    <string-array name="Seafood_breakfast_array">
+        <item>Crab - 3.5 oz allowed</item>
+        <item>Crayfish - 3.5 oz allowed</item>
+        <item>Lobster - 3.5 oz allowed</item>
+        <item>Langostino - 3.5 oz allowed</item>
+        <item>Shrimp - 3.5 oz allowed</item>
+        <item>Abalone - 3.5 oz allowed</item>
+        <item>Clams - 3.5 oz allowed</item>
+        <item>Conch - 3.5 oz allowed</item>
+        <item>Cuttlefish - 3.5 oz allowed</item>
+        <item>Mussels - 3.5 oz allowed</item>
+        <item>Octopus - 3.5 oz allowed</item>
+        <item>Oysters - 3.5 oz allowed</item>
+        <item>Scallops - 3.5 oz allowed</item>
+        <item>Snails - 3.5 oz allowed</item>
+        <item>Squid - 3.5 oz allowed</item>
+        <item>Bass - 3.5 oz allowed</item>
+        <item>Cod - 3.5 oz allowed</item>
+        <item>Coley - 3.5 oz allowed</item>
+        <item>Flounder - 3.5 oz allowed</item>
+        <item>Haddock - 3.5 oz allowed</item>
+        <item>Hake - 3.5 oz allowed</item>
+        <item>Halibut - 3.5 oz allowed</item>
+        <item>John Dory - 3.5 oz allowed</item>
+        <item>Mahi Mahi - 3.5 oz allowed</item>
+        <item>Monkfish - 3.5 oz allowed</item>
+        <item>Orange Roughy - 3.5 oz allowed</item>
+        <item>Pollock - 3.5 oz allowed</item>
+        <item>Scrod - 3.5 oz allowed</item>
+        <item>Sea Bass (except Chilean) - 3.5 oz allowed</item>
+        <item>Snapper - 3.5 oz allowed</item>
+        <item>Sole - 3.5 oz allowed</item>
+        <item>Striped Bass - 3.5 oz allowed</item>
+        <item>Swai - 3.5 oz allowed</item>
+        <item>Tilapia - 3.5 oz allowed</item>
+        <item>Tra - 3.5 oz allowed</item>
+        <item>Turbot - 3.5 oz allowed</item>
+        <item>White Perch - 3.5 oz allowed</item>
+        <item>Whiting - 3.5 oz allowed</item>
+    </string-array>
+
+    <!--
+       <string-array name="Seafood_not_allow_breakfast_array">
+           
+         <item>Bluefish-0 - Not Allow</item>
+        <item>Catfish-0 - Not Allow</item>
+        <item>Chilean Sea Bass-0 - Not Allow</item>
+        <item>Eel-0 - Not Allow</item>
+        <item>Herring-0 - Not Allow</item>
+        <item>Mackerel-0 - Not Allow</item>
+        <item>Perch-0 - Not Allow</item>
+        <item>Red Snapper-0 - Not Allow</item>
+        <item>Sablefish-0 - Not Allow</item>
+        <item>Salmon-0 - Not Allow</item>
+        <item>Sardines-0 - Not Allow</item>
+        <item>Swordfish-0 - Not Allow</item>
+        <item>Trout-0 - Not Allow</item>
+        <item>Tuna-0 - Not Allow</item>
+           
+           
+           
+         </string>
+    -->
+
+
+    <!-- seafood lunch arrays -->
+
+    <string-array name="Seafood_lunch_array">
+        <item>Crab - 4.5 oz allowed</item>
+        <item>Crayfish - 4.5 oz allowed</item>
+        <item>Lobster - 4.5 oz allowed</item>
+        <item>Langostino - 4.5 oz allowed</item>
+        <item>Shrimp - 4.5 oz allowed</item>
+        <item>Abalone - 4.5 oz allowed</item>
+        <item>Clams - 4.5 oz allowed</item>
+        <item>Conch - 4.5 oz allowed</item>
+        <item>Cuttlefish - 4.5 oz allowed</item>
+        <item>Mussels - 4.5 oz allowed</item>
+        <item>Octopus - 4.5 oz allowed</item>
+        <item>Oysters - 4.5 oz allowed</item>
+        <item>Scallops - 4.5 oz allowed</item>
+        <item>Snails - 4.5 oz allowed</item>
+        <item>Squid - 4.5 oz allowed</item>
+        <item>Bass - 4.5 oz allowed</item>
+        <item>Cod - 4.5 oz allowed</item>
+        <item>Coley - 4.5 oz allowed</item>
+        <item>Flounder - 4.5 oz allowed</item>
+        <item>Haddock - 4.5 oz allowed</item>
+        <item>Hake - 4.5 oz allowed</item>
+        <item>Halibut - 4.5 oz allowed</item>
+        <item>John Dory - 4.5 oz allowed</item>
+        <item>Mahi Mahi - 4.5 oz allowed</item>
+        <item>Monkfish - 4.5 oz allowed</item>
+        <item>Orange Roughy - 4.5 oz allowed</item>
+        <item>Pollock - 4.5 oz allowed</item>
+        <item>Scrod - 4.5 oz allowed</item>
+        <item>Sea Bass (except Chilean) - 4.5 oz allowed</item>
+        <item>Snapper - 4.5 oz allowed</item>
+        <item>Sole - 4.5 oz allowed</item>
+        <item>Striped Bass - 4.5 oz allowed</item>
+        <item>Swai - 4.5 oz allowed</item>
+        <item>Tilapia - 4.5 oz allowed</item>
+        <item>Tra - 4.5 oz allowed</item>
+        <item>Turbot - 4.5 oz allowed</item>
+        <item>White Perch - 4.5 oz allowed</item>
+        <item>Whiting - 4.5 oz allowed</item>
+    </string-array>
+
+    <!--
+       <string-array name="Seafood_not_allow_breakfast_array">
+           
+         <item>Bluefish-0 - Not Allow oz allowed</item>
+        <item>Catfish-0 - Not Allow oz allowed</item>
+        <item>Chilean Sea Bass-0 - Not Allow oz allowed</item>
+        <item>Eel-0 - Not Allow oz allowed</item>
+        <item>Herring-0 - Not Allow oz allowed</item>
+        <item>Mackerel-0 - Not Allow oz allowed</item>
+        <item>Perch-0 - Not Allow oz allowed</item>
+        <item>Red Snapper-0 - Not Allow oz allowed</item>
+        <item>Sablefish-0 - Not Allow oz allowed</item>
+        <item>Salmon-0 - Not Allow oz allowed</item>
+        <item>Sardines-0 - Not Allow oz allowed</item>
+        <item>Swordfish-0 - Not Allow oz allowed</item>
+        <item>Trout-0 - Not Allow oz allowed</item>
+        <item>Tuna-0 - Not Allow oz allowed</item>
+           
+           
+           
+         </string>
+    -->
+
+
+    <!-- seafood dinner arrays -->
+
+    <string-array name="Seafood_dinner_array">
+        <item>Crab - 4.5 oz allowed</item>
+        <item>Crayfish - 4.5 oz allowed</item>
+        <item>Lobster - 4.5 oz allowed</item>
+        <item>Langostino - 4.5 oz allowed</item>
+        <item>Shrimp - 4.5 oz allowed</item>
+        <item>Abalone - 4.5 oz allowed</item>
+        <item>Clams - 4.5 oz allowed</item>
+        <item>Conch - 4.5 oz allowed</item>
+        <item>Cuttlefish - 4.5 oz allowed</item>
+        <item>Mussels - 4.5 oz allowed</item>
+        <item>Octopus - 4.5 oz allowed</item>
+        <item>Oysters - 4.5 oz allowed</item>
+        <item>Scallops - 4.5 oz allowed</item>
+        <item>Snails - 4.5 oz allowed</item>
+        <item>Squid - 4.5 oz allowed</item>
+        <item>Bass - 4.5 oz allowed</item>
+        <item>Cod - 4.5 oz allowed</item>
+        <item>Coley - 4.5 oz allowed</item>
+        <item>Flounder - 4.5 oz allowed</item>
+        <item>Haddock - 4.5 oz allowed</item>
+        <item>Hake - 4.5 oz allowed</item>
+        <item>Halibut - 4.5 oz allowed</item>
+        <item>John Dory - 4.5 oz allowed</item>
+        <item>Mahi Mahi - 4.5 oz allowed</item>
+        <item>Monkfish - 4.5 oz allowed</item>
+        <item>Orange Roughy - 4.5 oz allowed</item>
+        <item>Pollock - 4.5 oz allowed</item>
+        <item>Scrod - 4.5 oz allowed</item>
+        <item>Sea Bass (except Chilean) - 4.5 oz allowed</item>
+        <item>Snapper - 4.5 oz allowed</item>
+        <item>Sole - 4.5 oz allowed</item>
+        <item>Striped Bass - 4.5 oz allowed</item>
+        <item>Swai - 4.5 oz allowed</item>
+        <item>Tilapia - 4.5 oz allowed</item>
+        <item>Tra - 4.5 oz allowed</item>
+        <item>Turbot - 4.5 oz allowed</item>
+        <item>White Perch - 4.5 oz allowed</item>
+        <item>Whiting - 4.5 oz allowed</item>
+    </string-array>
+
+    <!-- beans breakfast arrays -->
+    <string-array name="Beans_breakfast_array">
+        <item>Black Beans - 1 oz allowed</item>
+        <item>Black Eyed Peas - 1 oz allowed</item>
+        <item>Cannelini - 1 oz allowed</item>
+        <item>Garbanzo Beans/Chick Peas - 1 oz allowed</item>
+        <item>Lentil - 1 oz allowed</item>
+        <item>Lima - 1 oz allowed</item>
+        <item>Mung - 1 oz allowed</item>
+        <item>Pinto - 1 oz allowed</item>
+        <item>Red Kidney - 1 oz allowed</item>
+        <item>Spit Pea - 1 oz allowed</item>
+    </string-array>
+    <!--
+    <string-array name="Beans_notallow_breakfast_array">
+        <item>Soy Beans/Edamame/Tofu-0 - Not Allow oz allowed</item>
+    </string-array>
+    -->
+
+
+    <!-- beans lunch arrays -->
+    <string-array name="Beans_lunch_array">
+        <item>Black Beans - 1.3 oz allowed</item>
+        <item>Black Eyed Peas - 1.3 oz allowed</item>
+        <item>Cannelini - 1.3 oz allowed</item>
+        <item>Garbanzo Beans/Chick Peas - 1.3 oz allowed</item>
+        <item>Lentil - 1.3 oz allowed</item>
+        <item>Lima - 1.3 oz allowed</item>
+        <item>Mung - 1.3 oz allowed</item>
+        <item>Pinto - 1.3 oz allowed</item>
+        <item>Red Kidney - 1.3 oz allowed</item>
+        <item>Spit Pea - 1.3 oz allowed</item>
+    </string-array>
+
+    <!-- beans dinner arrays -->
+
+    <string-array name="Beans_dinner_array">
+        <item>Black Beans - 1.3 oz allowed</item>
+        <item>Black Eyed Peas - 1.3 oz allowed</item>
+        <item>Cannelini - 1.3 oz allowed</item>
+        <item>Garbanzo Beans/Chick Peas - 1.3 oz allowed</item>
+        <item>Lentil - 1.3 oz allowed</item>
+        <item>Lima - 1.3 oz allowed</item>
+        <item>Mung - 1.3 oz allowed</item>
+        <item>Pinto - 1.3 oz allowed</item>
+        <item>Red Kidney - 1.3 oz allowed</item>
+        <item>Spit Pea - 1.3 oz allowed</item>
+    </string-array>
+
+    <!-- fruit breakfast arrays -->
+
+    <string-array name="Fruits_breakfast_array">
+        <item>Blueberries - 3.5 oz allowed</item>
+        <item>Cherries (red - sweet or sour) - 3.5 oz allowed</item>
+        <item>Grapes - 3.5 oz allowed</item>
+        <item>Kiwi - 3.5 oz allowed</item>
+        <item>Mango - 3.5 oz allowed</item>
+        <item>Minneola/Tangelo - 3.5 oz allowed</item>
+        <item>Raspebrries - 3.5 oz allowed</item>
+        <item>Tangerine/Mandarin - 3.5 oz allowed</item>
+        <item>Apples - 4.5 oz allowed</item>
+        <item>Applesauce (unsweetened) - 4.5 oz allowed</item>
+        <item>Apricots - 4.5 oz allowed</item>
+        <item>Blackberries - 4.5 oz allowed</item>
+        <item>Clementines - 4.5 oz allowed</item>
+        <item>Nectarines - 4.5 oz allowed</item>
+        <item>Oranges - 4.5 oz allowed</item>
+        <item>Papaya - 4.5 oz allowed</item>
+        <item>Peaches - 4.5 oz allowed</item>
+        <item>Plums - 4.5 oz allowed</item>
+        <item>Acerola Cherries - 7 oz allowed</item>
+        <item>Grapefruit/Pummelo - 7 oz allowed</item>
+        <item>Starfruit - 7 oz allowed</item>
+        <item>Strawberries - 7 oz allowed</item>
+    </string-array>
+
+    <!--
+         <string-array name="Fruits_breakfast_notallow_array">
+        
+           <item>Avocado-0 - Not Allow oz allowed</item>
+        <item>Banana-0 - Not Allow oz allowed</item>
+        <item>Breadfruit-0 - Not Allow oz allowed</item>
+        <item>Cantaloupe-0 - Not Allow oz allowed</item>
+        <item>Casaba-0 - Not Allow oz allowed</item>
+        <item>Cocunut-0 - Not Allow oz allowed</item>
+        <item>Cranberry-0 - Not Allow oz allowed</item>
+        <item>Currants-0 - Not Allow oz allowed</item>
+        <item>Dates-0 - Not Allow oz allowed</item>
+        <item>Figs-0 - Not Allow oz allowed</item>
+        <item>Granadilla/Passion Fruit-0 - Not Allow oz allowed</item>
+        <item>Guava-0 - Not Allow oz allowed</item>
+        <item>Honeydew-0 - Not Allow oz allowed</item>
+        <item>Kumquat-0 - Not Allow oz allowed</item>
+        <item>Lychee-0 - Not Allow oz allowed</item>
+        <item>Olives (Black or Green)-0 - Not Allow oz allowed</item>
+        <item>Passion Fruit-0 - Not Allow oz allowed</item>
+        <item>Pea-0 - Not Allow oz allowed</item>
+        <item>Persimmon-0 - Not Allow oz allowed</item>
+        <item>Pineapple-0 - Not Allow oz allowed</item>
+        <item> Plantains-0 - Not Allow oz allowed</item>
+        <item>Pomegranate-0 - Not Allow oz allowed</item>
+        <item>Prunes-0 - Not Allow oz allowed</item>
+        <item>Quince-0 - Not Allow oz allowed</item>
+        <item>Watermelon-0 - Not Allow oz allowed</item>
+        <item>Wax Melon-0 - Not Allow oz allowed</item>
+        
+        </string-array>
+    -->
+
+
+    <!-- fruit lunch arrays -->
+    <string-array name="Fruits_lunch_array">
+        <item>Blueberries - 0 oz allowed</item>
+        <item>Cherries (red - sweet or sour) - 0 oz allowed</item>
+        <item>Grapes - 0 oz allowed</item>
+        <item>Kiwi - 0 oz allowed</item>
+        <item>Mango - 0 oz allowed</item>
+        <item>Minneola/Tangelo - 0 oz allowed</item>
+        <item>Raspebrries - 0 oz allowed</item>
+        <item>Tangerine/Mandarin - 0 oz allowed</item>
+        <item>Apples - 0 oz allowed</item>
+        <item>Applesauce (unsweetened) - 0 oz allowed</item>
+        <item>Apricots - 0 oz allowed</item>
+        <item>Blackberries - 0 oz allowed</item>
+        <item>Clementines - 0 oz allowed</item>
+        <item>Nectarines - 0 oz allowed</item>
+        <item>Oranges - 0 oz allowed</item>
+        <item>Papaya - 0 oz allowed</item>
+        <item>Peaches - 0 oz allowed</item>
+        <item>Plums - 0 oz allowed</item>
+        <item>Acerola Cherries - 0 oz allowed</item>
+        <item>Grapefruit/Pummelo - 0 oz allowed</item>
+        <item>Starfruit - 0 oz allowed</item>
+        <item>Strawberries - 0 oz allowed</item>
+    </string-array>
+
+    <!-- fruit dinner arrays -->
+    <string-array name="Fruits_dinner_array">
+        <item>Blueberries - 3.5 oz allowed</item>
+        <item>Cherries (red - sweet or sour) - 3.5 oz allowed</item>
+        <item>Grapes - 3.5 oz allowed</item>
+        <item>Kiwi - 3.5 oz allowed</item>
+        <item>Mango - 3.5 oz allowed</item>
+        <item>Minneola/Tangelo - 3.5 oz allowed</item>
+        <item>Raspebrries - 3.5 oz allowed</item>
+        <item>Tangerine/Mandarin - 3.5 oz allowed</item>
+        <item>Apples - 4.5 oz allowed</item>
+        <item>Applesauce (unsweetened) - 4.5 oz allowed</item>
+        <item>Apricots - 4.5 oz allowed</item>
+        <item>Blackberries - 4.5 oz allowed</item>
+        <item>Clementines - 4.5 oz allowed</item>
+        <item>Nectarines - 4.5 oz allowed</item>
+        <item>Oranges - 4.5 oz allowed</item>
+        <item>Papaya - 4.5 oz allowed</item>
+        <item>Peaches - 4.5 oz allowed</item>
+        <item>Plums - 4.5 oz allowed</item>
+        <item>Acerola Cherries - 7 oz allowed</item>
+        <item>Grapefruit/Pummelo - 7 oz allowed</item>
+        <item>Starfruit - 7 oz allowed</item>
+        <item>Strawberries - 7 oz allowed</item>
+    </string-array>
+
+    <!-- Vegetables breakfast arrays -->
+    <string-array name="Vegetables_breakfast_array">
+        <item>Broccoli - 0 oz allowed</item>
+        <item>Fennel - 0 oz allowed</item>
+        <item>Fiddlehead Ferns - 0 oz allowed</item>
+        <item>Green Beans - 0 oz allowed</item>
+        <item>Jalapeno Peppers - 0 oz allowed</item>
+        <item>Kohlrabi - 0 oz allowed</item>
+        <item>Okra - 0 oz allowed</item>
+        <item>Pumpkin - 0 oz allowed</item>
+        <item>Seaweed:  Spirulina - 0 oz allowed</item>
+        <item>Seaweed:  Agar - 0 oz allowed</item>
+        <item>Snap Bean - 0 oz allowed</item>
+        <item>Spaghetti Squash - 0 oz allowed</item>
+        <item>Sweet Onion - 0 oz allowed</item>
+        <item>Sweet Peppers (Yellow) - 0 oz allowed</item>
+        <item>Tomatillo - 0 oz allowed</item>
+        <item>Alfalfa Sprouts - 0 oz allowed</item>
+        <item>Asparagus - 0 oz allowed</item>
+        <item>Bamboo Shoot - 0 oz allowed</item>
+        <item>Brown/Crimini/Italian Mushrooms - 0 oz allowed</item>
+        <item>Cauliflower - 0 oz allowed</item>
+        <item>Eggplant - 0 oz allowed</item>
+        <item>Green Onion/Leeks - 0 oz allowed</item>
+        <item>Portabello Mushrooms - 0 oz allowed</item>
+        <item>Rhubarb - 0 oz allowed</item>
+        <item>Sweet Peppers (Green) - 0 oz allowed</item>
+        <item>White Mushrooms - 0 oz allowed</item>
+        <item>Celery - 0 oz allowed</item>
+        <item>Cucumber - 0 oz allowed</item>
+        <item>Radish - 0 oz allowed</item>
+        <item>Summer Squash - 0 oz allowed</item>
+        <item>Zuchini - 0 oz allowed</item>
+        <item>Tomatoes - 0 oz allowed</item>
+    </string-array>
+
+    <!--
+      <string-array name="Vegetables_notallow_breakfast_array">
+      <item>Artichokes-0 - Not Allow oz allowed</item>
+        <item>Avocado-0 - Not Allow oz allowed</item>
+        <item>Beans-0 - Not Allow oz allowed</item>
+        <item>Cannelini-0 - Not Allow oz allowed</item>
+        <item>Edamame-0 - Not Allow oz allowed</item>
+        <item>Fava-0 - Not Allow oz allowed</item>
+        <item>Kidney-0 - Not Allow oz allowed</item>
+        <item>Lentil-0 - Not Allow oz allowed</item>
+        <item>Lima-0 - Not Allow oz allowed</item>
+        <item>Mung-0 - Not Allow oz allowed</item>
+        <item>Pinto-0 - Not Allow oz allowed</item>
+        <item>Soy-0 - Not Allow oz allowed</item>
+        <item>Beets-0 - Not Allow oz allowed</item>
+        <item>Blackeyed Peas (Cow Peas)-0 - Not Allow oz allowed</item>
+        <item>Brussel Sprouts-0 - Not Allow oz allowed</item>
+        <item>Chili Peppers-0 - Not Allow oz allowed</item>
+        <item>Corn-0 - Not Allow oz allowed</item>
+        <item>Garden Peas-0 - Not Allow oz allowed</item>
+        <item>Ginger-0 - Not Allow oz allowed</item>
+        <item>Jicama-0 - Not Allow oz allowed</item>
+        <item>Oyster/Shitake/Enoki Mushrooms-0 - Not Allow oz allowed</item>
+        <item>Olives-0 - Not Allow oz allowed</item>
+        <item>Palm Hearts-0 - Not Allow oz allowed</item>
+        <item>Parsnip-0 - Not Allow oz allowed</item>
+        <item>Potato-0 - Not Allow oz allowed</item>
+        <item>Rutabaga -0 - Not Allow oz allowed</item>
+        <item>Seaweed:  Laver, Kelp, Irish Moss, Wakame-0 - Not Allow oz allowed</item>
+        <item>Shallots-0 - Not Allow oz allowed</item>
+        <item>Snow Peas-0 - Not Allow oz allowed</item>
+        <item>Soy Bean Sprouts-0 - Not Allow oz allowed</item>
+        <item>Sun Dried Tomatoes-0 - Not Allow oz allowed</item>
+        <item>Sweet Potato-0 - Not Allow oz allowed</item>
+        <item>Sweet Peppers (Red)-0 - Not Allow oz allowed</item>
+        <item>Water hestnuts-0 - Not Allow oz allowed</item>
+        <item>Wheat Sprouts-0 - Not Allow oz allowed</item>
+        <item>Winter Squash-0 - Not Allow oz allowed</item>
+        <item>Yam - Not Allow oz allowed</item>
+        </string-array>
+    -->
+
+
+    <!-- Vegetables lunch arrays -->
+    <string-array name="Vegetables_lunch_array">
+        <item>Broccoli - 3.5 oz allowed</item>
+        <item>Fennel - 3.5 oz allowed</item>
+        <item>Fiddlehead Ferns - 3.5 oz allowed</item>
+        <item>Green Beans - 3.5 oz allowed</item>
+        <item>Jalapeno Peppers - 3.5 oz allowed</item>
+        <item>Kohlrabi - 3.5 oz allowed</item>
+        <item>Okra - 3.5 oz allowed</item>
+        <item>Pumpkin - 3.5 oz allowed</item>
+        <item>Seaweed:  Spirulina - 3.5 oz allowed</item>
+        <item>Seaweed:  Agar - 3.5 oz allowed</item>
+        <item>Snap Bean - 3.5 oz allowed</item>
+        <item>Spaghetti Squash - 3.5 oz allowed</item>
+        <item>Sweet Onion - 3.5 oz allowed</item>
+        <item>Sweet Peppers (Yellow) -3.5 oz allowed</item>
+        <item>Tomatillo - 3.5 oz allowed</item>
+        <item>Turnip - 3.5 oz allowed</item>
+        <item>Alfalfa Sprouts - 4.5 oz allowed</item>
+        <item>Asparagus - 4.5 oz allowed</item>
+        <item>Bamboo Shoots - 4.5 oz allowed</item>
+        <item>Brown/Crimini/Italian Mushrooms - 4.5 oz allowed</item>
+        <item>Cauliflower - 4.5 oz allowed</item>
+        <item>Eggplant - 4.5 oz allowed</item>
+        <item>Green Onion/Leeks - 4.5 oz allowed</item>
+        <item>Portabello Mushrooms - 4.5 oz allowed</item>
+        <item>Rhubarb - 4.5 oz allowed</item>
+        <item>Sweet Peppers (Green) - 4.5 oz allowed</item>
+        <item>White Mushrooms - 4.5 oz allowed</item>
+        <item>Celery - 7 oz allowed</item>
+        <item>Cucumber - 7 oz allowed</item>
+        <item>Radish - 7 oz allowed</item>
+        <item>Summer Squash - 7 oz allowed</item>
+        <item>Zuchini - 7 oz allowed</item>
+        <item>Tomatoes - 7 oz allowed</item>
+    </string-array>
+
+    <!-- Vegetables dinner arrays -->
+
+    <string-array name="Vegetables_dinner_array">
+        <item>Broccoli - 3.5 oz allowed</item>
+        <item>Fennel - 3.5 oz allowed</item>
+        <item>Fiddlehead Ferns - 3.5 oz allowed</item>
+        <item>Green Beans - 3.5 oz allowed</item>
+        <item>Jalapeno Peppers - 3.5 oz allowed</item>
+        <item>Kohlrabi - 3.5 oz allowed</item>
+        <item>Okra - 3.5 oz allowed</item>
+        <item>Pumpkin - 3.5 oz allowed</item>
+        <item>Seaweed:  Spirulina - 3.5 oz allowed</item>
+        <item>Seaweed:  Agar - 3.5 oz allowed</item>
+        <item>Snap Bean - 3.5 oz allowed</item>
+        <item>Spaghetti Squash - 3.5 oz allowed</item>
+        <item>Sweet Onion - 3.5 oz allowed</item>
+        <item>Sweet Peppers (Yellow) -3.5 oz allowed</item>
+        <item>Tomatillo - 3.5 oz allowed</item>
+        <item>Turnip - 3.5 oz allowed</item>
+        <item>Alfalfa Sprouts - 4.5 oz allowed</item>
+        <item>Asparagus - 4.5 oz allowed</item>
+        <item>Bamboo Shoots - 4.5 oz allowed</item>
+        <item>Brown/Crimini/Italian Mushrooms - 4.5 oz allowed</item>
+        <item>Cauliflower - 4.5 oz allowed</item>
+        <item>Eggplant - 4.5 oz allowed</item>
+        <item>Green Onion/Leeks - 4.5 oz allowed</item>
+        <item>Portabello Mushrooms - 4.5 oz allowed</item>
+        <item>Rhubarb - 4.5 oz allowed</item>
+        <item>Sweet Peppers (Green) - 4.5 oz allowed</item>
+        <item>White Mushrooms - 4.5 oz allowed</item>
+        <item>Celery - 7 oz allowed</item>
+        <item>Cucumber - 7 oz allowed</item>
+        <item>Radish - 7 oz allowed</item>
+        <item>Summer Squash - 7 oz allowed</item>
+        <item>Zuchini - 7 oz allowed</item>
+        <item>Tomatoes - 7 oz allowed</item>
+    </string-array>
+
+    <!-- Greens  arrays -->
+
+    <string-array name="Greens_breakfast_array">
+        <item>Arugula/Rocket - 0 oz allowed</item>
+        <item>Bibb Lettuce - 0 oz allowed</item>
+        <item>Bok Choi - 0 oz allowed</item>
+        <item>Boston Lettuce - 0 oz allowed</item>
+        <item>Butterhead - 0 oz allowed</item>
+        <item>Cabbage - 0 oz allowed</item>
+        <item>Chard - 0 oz allowed</item>
+        <item>Chickory - 0 oz allowed</item>
+        <item>Collard Greens - 0 oz allowed</item>
+        <item>Corn Salad Leaf/Mache - 0 oz allowed</item>
+        <item>Dandelion Greens - 0 oz allowed</item>
+        <item>Escarole - 0 oz allowed</item>
+        <item>Endive - 0 oz allowed</item>
+        <item>Fennel - 0 oz allowed</item>
+        <item>Frisee - 0 oz allowed</item>
+        <item>Field Greens - 0 oz allowed</item>
+        <item>Iceberg Lettuce - 0 oz allowed</item>
+        <item>Kale - 0 oz allowed</item>
+        <item>Lambs Leaf - 0 oz allowed</item>
+        <item>Lolla Bionda - 0 oz allowed</item>
+        <item>Lollo Rosso - 0 oz allowed</item>
+        <item>Mesclun - 0 oz allowed</item>
+        <item>Mustard Greens - 0 oz allowed</item>
+        <item>Oakleaf Lettuce - 0 oz allowed</item>
+        <item>Radicchio - 0 oz allowed</item>
+        <item>Red Orach - 0 oz allowed</item>
+        <item>Romaine - 0 oz allowed</item>
+        <item>Spinach - 0 oz allowed</item>
+        <item>Tat Soi - 0 oz allowed</item>
+        <item>Turnip Greens - 0 oz allowed</item>
+        <item>Watercress - 0 oz allowed</item>
+    </string-array>
+
+    <!-- Greens lunch arrays -->
+    <string-array name="Greens_lunch_array">
+        <item>Arugula/Rocket - 5.3 oz allowed</item>
+        <item>Bibb Lettuce - 5.3 oz allowed</item>
+        <item>Bok Choi - 5.3 oz allowed</item>
+        <item>Boston Lettuce - 5.3 oz allowed</item>
+        <item>Butterhead - 5.3 oz allowed</item>
+        <item>Cabbage - 5.3 oz allowed</item>
+        <item>Chard - 5.3 oz allowed</item>
+        <item>Chickory - 5.3 oz allowed</item>
+        <item>Collard Greens - 5.3 oz allowed</item>
+        <item>Corn Salad Leaf/Mache - 5.3 oz allowed</item>
+        <item>Dandelion Greens - 5.3 oz allowed</item>
+        <item>Escarole - 5.3 oz allowed</item>
+        <item>Endive - 5.3 oz allowed</item>
+        <item>Fennel - 5.3 oz allowed</item>
+        <item>Frisee - 5.3 oz allowed</item>
+        <item>Field Greens - 5.3 oz allowed</item>
+        <item>Iceberg Lettuce - 5.3 oz allowed</item>
+        <item>Kale - 5.3 oz allowed</item>
+        <item>Lambs Leaf - 5.3 oz allowed</item>
+        <item>Lolla Bionda - 5.3 oz allowed</item>
+        <item>Lollo Rosso - 5.3 oz allowed</item>
+        <item>Mesclun - 5.3 oz allowed</item>
+        <item>Mustard Greens - 5.3 oz allowed</item>
+        <item>Oakleaf Lettuce - 5.3 oz allowed</item>
+        <item>Radicchio - 5.3 oz allowed</item>
+        <item>Red Orach - 5.3 oz allowed</item>
+        <item>Romaine - 5.3 oz allowed</item>
+        <item>Spinach - 5.3 oz allowed</item>
+        <item>Tat Soi - 5.3 oz allowed</item>
+        <item>Turnip Greens - 5.3 oz allowed</item>
+        <item>Watercress - 5.3 oz allowed</item>
+    </string-array>
+
+    <!-- Greens dinner arrays -->
+    <string-array name="Greens_dinner_array">
+        <item>Arugula/Rocket - 5.3 oz allowed</item>
+        <item>Bibb Lettuce - 5.3 oz allowed</item>
+        <item>Bok Choi - 5.3 oz allowed</item>
+        <item>Boston Lettuce - 5.3 oz allowed</item>
+        <item>Butterhead - 5.3 oz allowed</item>
+        <item>Cabbage - 5.3 oz allowed</item>
+        <item>Chard - 5.3 oz allowed</item>
+        <item>Chickory - 5.3 oz allowed</item>
+        <item>Collard Greens - 5.3 oz allowed</item>
+        <item>Corn Salad Leaf/Mache - 5.3 oz allowed</item>
+        <item>Dandelion Greens - 5.3 oz allowed</item>
+        <item>Escarole - 5.3 oz allowed</item>
+        <item>Endive - 5.3 oz allowed</item>
+        <item>Fennel - 5.3 oz allowed</item>
+        <item>Frisee - 5.3 oz allowed</item>
+        <item>Field Greens - 5.3 oz allowed</item>
+        <item>Iceberg Lettuce - 5.3 oz allowed</item>
+        <item>Kale - 5.3 oz allowed</item>
+        <item>Lambs Leaf - 5.3 oz allowed</item>
+        <item>Lolla Bionda - 5.3 oz allowed</item>
+        <item>Lollo Rosso - 5.3 oz allowed</item>
+        <item>Mesclun - 5.3 oz allowed</item>
+        <item>Mustard Greens - 5.3 oz allowed</item>
+        <item>Oakleaf Lettuce - 5.3 oz allowed</item>
+        <item>Radicchio - 5.3 oz allowed</item>
+        <item>Red Orach - 5.3 oz allowed</item>
+        <item>Romaine - 5.3 oz allowed</item>
+        <item>Spinach - 5.3 oz allowed</item>
+        <item>Tat Soi - 5.3 oz allowed</item>
+        <item>Turnip Greens - 5.3 oz allowed</item>
+        <item>Watercress - 5.3 oz allowed</item>
+    </string-array>
+
+    <!-- dry breakfast array -->
+
+    <string-array name="Dry_breakfast_array">
+        <item>All Spice - 0.33 oz allowed</item>
+        <item>Anise - 0.33 oz allowed</item>
+        <item>Bay Leaves - 0.33 oz allowed</item>
+        <item>Black Pepper - 0.33 oz allowed</item>
+        <item>Cayenne Pepper - 0.33 oz allowed</item>
+        <item>Chaomomile - 0.33 oz allowed</item>
+        <item>Chili Powder - 0.33 oz allowed</item>
+        <item>Cinnamon - 0.33 oz allowed</item>
+        <item>Cumin - 0.33 oz allowed</item>
+        <item>Curry Powder - 0.33 oz allowed</item>
+        <item>Eucalyptus - 0.33 oz allowed</item>
+        <item>Garlic / Garlic Powder - 0.33 oz allowed</item>
+        <item>Ginger Powder - 0.33 oz allowed</item>
+        <item>Hops - 0.33 oz allowed</item>
+        <item>Lavender - 0.33 oz allowed</item>
+        <item>Lemon Verbana - 0.33 oz allowed</item>
+        <item>Marjoram - 0.33 oz allowed</item>
+        <item>Mustard (Dijon or Yellow) / Mustard Powder - 0.33 oz allowed</item>
+        <item>Nutmeg - 0.33 oz allowed</item>
+        <item>Dill Weed - 0.33 oz allowed</item>
+        <item>Ginger Root (raw, not pickled) - 0.33 oz allowed</item>
+        <item>Horseradish - 0.33 oz allowed</item>
+        <item>Lemon Grass - 0.33 oz allowed</item>
+        <item>Peppermint - 0.33 oz allowed</item>
+        <item>Rosemary - 0.33 oz allowed</item>
+        <item>Spearmint - 0.33 oz allowed</item>
+        <item>Thyme - 0.33 oz allowed</item>
+        <item>Basil - 0.33 oz allowed</item>
+        <item>Chives - 0.33 oz allowed</item>
+        <item>Coriander/Cilantro - 0.33 oz allowed</item>
+        <item>Garden Cress - 0.33 oz allowed</item>
+        <item>Parsley - 0.33 oz allowed</item>
+    </string-array>
+
+    <!-- dry lunch array -->
+    <string-array name="Dry_lunch_array">
+        <item>All Spice - 0.33 oz allowed</item>
+        <item>Anise - 0.33 oz allowed</item>
+        <item>Bay Leaves - 0.33 oz allowed</item>
+        <item>Black Pepper - 0.33 oz allowed</item>
+        <item>Cayenne Pepper - 0.33 oz allowed</item>
+        <item>Chaomomile - 0.33 oz allowed</item>
+        <item>Chili Powder - 0.33 oz allowed</item>
+        <item>Cinnamon - 0.33 oz allowed</item>
+        <item>Cumin - 0.33 oz allowed</item>
+        <item>Curry Powder - 0.33 oz allowed</item>
+        <item>Eucalyptus - 0.33 oz allowed</item>
+        <item>Garlic / Garlic Powder - 0.33 oz allowed</item>
+        <item>Ginger Powder - 0.33 oz allowed</item>
+        <item>Hops - 0.33 oz allowed</item>
+        <item>Lavender - 0.33 oz allowed</item>
+        <item>Lemon Verbana - 0.33 oz allowed</item>
+        <item>Marjoram - 0.33 oz allowed</item>
+        <item>Mustard (Dijon or Yellow) / Mustard Powder - 0.33 oz allowed</item>
+        <item>Nutmeg - 0.33 oz allowed</item>
+        <item>Dill Weed  - 0.33 oz allowed</item>
+        <item>Ginger Root (raw, not pickled) - 0.33 oz allowed</item>
+        <item>Horseradish - 0.33 oz allowed</item>
+        <item>Lemon Grass - 0.33 oz allowed</item>
+        <item>Peppermint - 0.33 oz allowed</item>
+        <item>Rosemary - 0.33 oz allowed</item>
+        <item>Spearmint - 0.33 oz allowed</item>
+        <item>Thyme - 0.33 oz allowed</item>
+        <item>Basil - 0.33 oz allowed</item>
+        <item>Chives - 0.33 oz allowed</item>
+        <item>Coriander/Cilantro - 0.33 oz allowed</item>
+        <item>Garden Cress - 0.33 oz allowed</item>
+        <item>Parsley - 0.33 oz allowed</item>
+    </string-array>
+
+    <!-- dry dinner array -->
+    <string-array name="Dry_dinner_array">
+        <item>All Spice - 0.33 oz allowed</item>
+        <item>Anise - 0.33 oz allowed</item>
+        <item>Bay Leaves - 0.33 oz allowed</item>
+        <item>Black Pepper - 0.33 oz allowed</item>
+        <item>Cayenne Pepper - 0.33 oz allowed</item>
+        <item>Chaomomile - 0.33 oz allowed</item>
+        <item>Chili Powder - 0.33 oz allowed</item>
+        <item>Cinnamon - 0.33 oz allowed</item>
+        <item>Cumin - 0.33 oz allowed</item>
+        <item>Curry Powder - 0.33 oz allowed</item>
+        <item>Eucalyptus - 0.33 oz allowed</item>
+        <item>Garlic / Garlic Powder - 0.33 oz allowed</item>
+        <item>Ginger Powder - 0.33 oz allowed</item>
+        <item>Hops - 0.33 oz allowed</item>
+        <item>Lavender - 0.33 oz allowed</item>
+        <item>Lemon Verbana - 0.33 oz allowed</item>
+        <item>Marjoram - 0.33 oz allowed</item>
+        <item>Mustard (Dijon or Yellow) / Mustard Powder - 0.33 oz allowed</item>
+        <item>Nutmeg - 0.33 oz allowed</item>
+        <item>Dill Weed - 0.33 oz allowed</item>
+        <item>Ginger Root (raw, not pickled) - 0.33 oz allowed</item>
+        <item>Horseradish - 0.33 oz allowed</item>
+        <item>Lemon Grass - 0.33 oz allowed</item>
+        <item>Peppermint - 0.33 oz allowed</item>
+        <item>Rosemary - 0.33 oz allowed</item>
+        <item>Spearmint - 0.33 oz allowed</item>
+        <item>Thyme - 0.33 oz allowed</item>
+        <item>Basil - 0.33 oz allowed</item>
+        <item>Chives - 0.33 oz allowed</item>
+        <item>Coriander/Cilantro - 0.33 oz allowed</item>
+        <item>Garden Cress - 0.33 oz allowed</item>
+        <item>Parsley - 0.33 oz allowed</item>
+    </string-array>
+
+    <!-- fresh array -->
+    <string-array name="fresh_breakfast_array">
+        <item>All Spice - 0.33 oz allowed</item>
+        <item>Anise - 0.33 oz allowed</item>
+        <item>Bay Leaves - 0.33 oz allowed</item>
+        <item>Black Pepper - 0.33 oz allowed</item>
+        <item>Cayenne Pepper - 0.33 oz allowed</item>
+        <item>Chaomomile - 0.33 oz allowed</item>
+        <item>Chili Powder - 0.33 oz allowed</item>
+        <item>Cinnamon - 0.33 oz allowed</item>
+        <item>Cumin - 0.33 oz allowed</item>
+        <item>Curry Powder - 0.33 oz allowed</item>
+        <item>Eucalyptus - 0.33 oz allowed</item>
+        <item>Garlic / Garlic Powder - 0.33 oz allowed</item>
+        <item>Ginger Powder - 0.33 oz allowed</item>
+        <item>Hops - 0.33 oz allowed</item>
+        <item>Lavender - 0.33 oz allowed</item>
+        <item>Lemon Verbana - 0.33 oz allowed</item>
+        <item>Marjoram - 0.33 oz allowed</item>
+        <item>Mustard (Dijon or Yellow) / Mustard Powder - 0.33 oz allowed</item>
+        <item>Nutmeg - 0.33 oz allowed</item>
+        <item>Dill Weed - 0.66 oz allowed</item>
+        <item>Ginger Root (raw, not pickled) - 0.66 oz allowed</item>
+        <item>Horseradish - 0.66 oz allowed</item>
+        <item>Lemon Grass - 0.66 oz allowed</item>
+        <item>Peppermint - 0.66 oz allowed</item>
+        <item>Rosemary - 0.66 oz allowed</item>
+        <item>Spearmint - 0.66 oz allowed</item>
+        <item>Thyme - 0.66 oz allowed</item>
+        <item>Basil - 1.5 oz allowed</item>
+        <item>Chives - 1.5 oz allowed</item>
+        <item>Coriander/Cilantro - 1.5 oz allowed</item>
+        <item>Garden Cress - 1.5 oz allowed</item>
+        <item>Parsle - 1.5 oz allowed</item>
+    </string-array>
+
+    <!-- fresh lunch array -->
+    <string-array name="fresh_lunch_array">
+        <item>All Spice - 0.33 oz allowed</item>
+        <item>Anise - 0.33 oz allowed</item>
+        <item>Bay Leaves - 0.33 oz allowed</item>
+        <item>Black Pepper - 0.33 oz allowed</item>
+        <item>Cayenne Pepper - 0.33 oz allowed</item>
+        <item>Chaomomile - 0.33 oz allowed</item>
+        <item>Chili Powder - 0.33 oz allowed</item>
+        <item>Cinnamon - 0.33 oz allowed</item>
+        <item>Cumin - 0.33 oz allowed</item>
+        <item>Curry Powder - 0.33 oz allowed</item>
+        <item>Eucalyptus - 0.33 oz allowed</item>
+        <item>Garlic / Garlic Powder - 0.33 oz allowed</item>
+        <item>Ginger Powder - 0.33 oz allowed</item>
+        <item>Hops - 0.33 oz allowed</item>
+        <item>Lavender - 0.33 oz allowed</item>
+        <item>Lemon Verbana - 0.33 oz allowed</item>
+        <item>Marjoram - 0.33 oz allowed</item>
+        <item>Mustard (Dijon or Yellow) / Mustard Powder - 0.33 oz allowed</item>
+        <item>Nutmeg - 0.33 oz allowed</item>
+        <item>Dill Weed - 0.66  oz allowed</item>
+        <item>Ginger Root (raw, not pickled) - 0.66 oz allowed</item>
+        <item>Horseradish - 0.66 oz allowed</item>
+        <item>Lemon Grass - 0.66 oz allowed</item>
+        <item>Peppermint - 0.66 oz allowed</item>
+        <item>Rosemary - 0.66 oz allowed</item>
+        <item>Spearmint - 0.66 oz allowed</item>
+        <item>Thyme - 0.66 oz allowed</item>
+        <item>Basil - 1.5 oz allowed</item>
+        <item>Chives - 1.5 oz allowed</item>
+        <item>Coriander/Cilantro - 1.5 oz allowed</item>
+        <item>Garden Cress - 1.5 oz allowed</item>
+        <item>Parsle - 1.5 oz allowed</item>
+    </string-array>
+
+    <!-- fresh dinner array -->
+    <string-array name="fresh_dinner_array">
+        <item>All Spice - 0.33 oz allowed</item>
+        <item>Anise - 0.33 oz allowed</item>
+        <item>Bay Leaves - 0.33 oz allowed</item>
+        <item>Black Pepper - 0.33 oz allowed</item>
+        <item>Cayenne Pepper - 0.33 oz allowed</item>
+        <item>Chaomomile - 0.33 oz allowed</item>
+        <item>Chili Powder - 0.33 oz allowed</item>
+        <item>Cinnamon - 0.33 oz allowed</item>
+        <item>Cumin - 0.33 oz allowed</item>
+        <item>Curry Powder - 0.33 oz allowed</item>
+        <item>Eucalyptus - 0.33 oz allowed</item>
+        <item>Garlic / Garlic Powder - 0.33 oz allowed</item>
+        <item>Ginger Powder - 0.33 oz allowed</item>
+        <item>Hops - 0.33 oz allowed</item>
+        <item>Lavender - 0.33 oz allowed</item>
+        <item>Lemon Verbana - 0.33 oz allowed</item>
+        <item>Marjoram - 0.33 oz allowed</item>
+        <item>Mustard (Dijon or Yellow) / Mustard Powder - 0.33 oz allowed</item>
+        <item>Nutmeg - 0.33 oz allowed</item>
+        <item>Dill Weed - 0.66  oz allowed</item>
+        <item>Ginger Root (raw, not pickled) - 0.66 oz allowed</item>
+        <item>Horseradish - 0.66 oz allowed</item>
+        <item>Lemon Grass - 0.66 oz allowed</item>
+        <item>Peppermint - 0.66 oz allowed</item>
+        <item>Rosemary - 0.66 oz allowed</item>
+        <item>Spearmint - 0.66 oz allowed</item>
+        <item>Thyme - 0.66 oz allowed</item>
+        <item>Basil - 1.5 oz allowed</item>
+        <item>Chives - 1.5 oz allowed</item>
+        <item>Coriander/Cilantro - 1.5 oz allowed</item>
+        <item>Garden Cress - 1.5 oz allowed</item>
+        <item>Parsle - 1.5 oz allowed</item>
+    </string-array>
+
+    <!-- SNACK OPTIONS (One Time Daily) -->
+
+    <string-array name="nuts_snackoption_thinnerCleanse_array">
+        <item>Almonds - 1 oz allowed</item>
+        <item>Brazil Nuts - 1 oz allowed</item>
+        <item>Cashews - 1 oz allowed</item>
+        <item>Hazelnuts/Filberts - 1 oz allowed</item>
+        <item>Macademia Nuts - 1 oz allowed</item>
+        <item>Pistachios - 1 oz allowed</item>
+        <item>Pumpkin Seeds - 1 oz allowed</item>
+        <item>Sesame Seeds - 1 oz allowed</item>
+        <item>Sunflower Seeds - 1 oz allowed</item>
+        <item>Walnuts - 1 oz allowed</item>
+    </string-array>
+    <!--
+      <string-array name="nuts_notallow_snackoption_breakfast_array">
+      <item>Peanut-0 - Not Allow oz allowed</item>
+       <item>Soy-0 - Not Allow oz allowed</item>
+        
+        </string-array>
+    -->
+
+    <string-array name="avocado_snackoption__thinnerCleanse_array">
+        <item>Avocado - 3.5 oz allowed</item>
+    </string-array>
+    <string-array name="olives_snackoption__thinnerCleanse_array">
+        <item>Olives (No Kalamata, No Pimento) - 4 oz allowed</item>
+    </string-array>
+
+    <!-- SEASONINGS AND OIL breakfat arrays -->
+    <string-array name="seasoningandoil_breakfast_array">
+        <item>Lemon or Lime Juice - 1 oz allowed</item>
+        <item>Vinegar (distilled, red wine, cider) - 1.3 oz allowed</item>
+        <item>Oil (Virigin Olive, Flaxseed, Sunflower) - 0.33 oz allowed</item>
+    </string-array>
+
+    <!-- SEASONINGS AND OIL lunch arrays -->
+    <string-array name="seasoningandoil_lunch_array">
+        <item>Lemon or Lime Juice - 1 oz allowed</item>
+        <item>Vinegar (distilled, red wine, cider) - 1.3 oz allowed</item>
+        <item>Oil (Virigin Olive, Flaxseed, Sunflower) - 0.33 oz allowed</item>
+    </string-array>
+
+    <!-- SEASONINGS AND OIL dinner arrays -->
+    <string-array name="seasoningandoil_dinner_array">
+        <item>Lemon or Lime Juice - 1 oz allowed</item>
+        <item>Vinegar (distilled, red wine, cider) - 1.3 oz allowed</item>
+        <item>Oil (Virigin Olive, Flaxseed, Sunflower) - 0.33 oz allowed</item>
+    </string-array>
+	</foods>
